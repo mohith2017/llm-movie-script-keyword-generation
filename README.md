@@ -76,8 +76,8 @@ HELEN MIRREN (V.O.)
 Yes Barbie changed everything! Then she changed it all again!
 We go through all the changes to Barbie Margot, as she moves through the decades.
 HELEN MIRREN (V.O.)
-```
 All of these women are Barbie, and Barbie is all of these women. She might have started out as just a lady in a bathing suit, but she became so much more.
 We see a row of Barbies. As we move back we see that “Barbie” is a EVERY different kind of woman -- every profession, every ethnicity, every body shape, every different ability and every gift. As we pan by each one, we hear:
 HELEN MIRREN (V.O.)
 She has her own money, her own house, her own car, her own career. Because Barbie can be anything, women can be anything.
+```
