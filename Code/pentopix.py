@@ -4,8 +4,8 @@ import pandas as pd
 from spacy_llm.util import assemble
 
 
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["ORGANIZATION_ID"] = "org-PDgZdabgwEQG4CKvJHhH4ALa"
+os.environ["OPENAI_API_KEY"] = "<YOUR API KEY>"
+os.environ["ORGANIZATION_ID"] = "<YOUR ORG ID>"
 
 nlp = assemble("config.cfg")
 
