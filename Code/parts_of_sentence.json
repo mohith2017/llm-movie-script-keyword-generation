@@ -1,0 +1,299 @@
+[
+  {
+    "text": "John walks his dog.",
+    "spans": [
+      {
+        "text": "John",
+        "is_entity": true,
+        "label": "SUBJECT",
+        "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+      },
+      {
+        "text": "walks",
+        "is_entity": true,
+        "label": "VERB",
+        "reason": "is a verb in this context, because this is the action that the subject performs."
+      },
+      {
+        "text": "his dog",
+        "is_entity": true,
+        "label": "OBJECT",
+        "reason": "is an object in this context, because this is the person or thing that the action is done to."
+      }
+    ]
+  },
+  {
+    "text": "Sarah reads her book.",
+    "spans": [
+      {
+        "text": "Sarah",
+        "is_entity": true,
+        "label": "SUBJECT",
+        "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+      },
+      {
+        "text": "reads",
+        "is_entity": true,
+        "label": "VERB",
+        "reason": "is a verb in this context, because this is the action that the subject performs."
+      },
+      {
+        "text": "her book",
+        "is_entity": true,
+        "label": "OBJECT",
+        "reason": "is an object in this context, because this is the person or thing that the action is done to."
+      }
+    ]
+  },
+  {
+    "text": "Mark plays his guitar.",
+    "spans": [
+      {
+        "text": "Mark",
+        "is_entity": true,
+        "label": "SUBJECT",
+        "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+      },
+      {
+        "text": "plays",
+        "is_entity": true,
+        "label": "VERB",
+        "reason": "is a verb in this context, because this is the action that the subject performs."
+      },
+      {
+        "text": "his guitar",
+        "is_entity": true,
+        "label": "OBJECT",
+        "reason": "is an object in this context, because this is the person or thing that the action is done to."
+      }
+    ]
+  },
+  {
+    "text": "Emma paints her canvas.",
+    "spans": [
+      {
+        "text": "Emma",
+        "is_entity": true,
+        "label": "SUBJECT",
+        "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+      },
+      {
+        "text": "paints",
+        "is_entity": true,
+        "label": "VERB",
+        "reason": "is a verb in this context, because this is the action that the subject performs."
+      },
+      {
+        "text": "her canvas",
+        "is_entity": true,
+        "label": "OBJECT",
+        "reason": "is an object in this context, because this is the person or thing that the action is done to."
+      }
+    ]
+  },
+    {
+      "text": "Peter drives his car.",
+      "spans": [
+        {
+          "text": "Peter",
+          "is_entity": true,
+          "label": "SUBJECT",
+          "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+        },
+        {
+          "text": "drives",
+          "is_entity": true,
+          "label": "VERB",
+          "reason": "is a verb in this context, because this is the action that the subject performs."
+        },
+        {
+          "text": "his car",
+          "is_entity": true,
+          "label": "OBJECT",
+          "reason": "is an object in this context, because this is the person or thing that the action is done to."
+        }
+      ]
+    },
+    {
+      "text": "Alice waters her plants.",
+      "spans": [
+        {
+          "text": "Alice",
+          "is_entity": true,
+          "label": "SUBJECT",
+          "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+        },
+        {
+          "text": "waters",
+          "is_entity": true,
+          "label": "VERB",
+          "reason": "is a verb in this context, because this is the action that the subject performs."
+        },
+        {
+          "text": "her plants",
+          "is_entity": true,
+          "label": "OBJECT",
+          "reason": "is an object in this context, because this is the person or thing that the action is done to."
+        }
+      ]
+    },
+    {
+      "text": "Tom reads his newspaper.",
+      "spans": [
+        {
+          "text": "Tom",
+          "is_entity": true,
+          "label": "SUBJECT",
+          "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+        },
+        {
+          "text": "reads",
+          "is_entity": true,
+          "label": "VERB",
+          "reason": "is a verb in this context, because this is the action that the subject performs."
+        },
+        {
+          "text": "his newspaper",
+          "is_entity": true,
+          "label": "OBJECT",
+          "reason": "is an object in this context, because this is the person or thing that the action is done to."
+        }
+      ]
+    },
+    {
+      "text": "Sophia cooks her dinner.",
+      "spans": [
+        {
+          "text": "Sophia",
+          "is_entity": true,
+          "label": "SUBJECT",
+          "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+        },
+        {
+          "text": "cooks",
+          "is_entity": true,
+          "label": "VERB",
+          "reason": "is a verb in this context, because this is the action that the subject performs."
+        },
+        {
+          "text": "her dinner",
+          "is_entity": true,
+          "label": "OBJECT",
+          "reason": "is an object in this context, because this is the person or thing that the action is done to."
+        }
+      ]
+    },
+      {
+        "text": "The scientist conducting groundbreaking research publishes her findings.",
+        "spans": [
+          {
+            "text": "The scientist",
+            "is_entity": true,
+            "label": "SUBJECT",
+            "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+          },
+          {
+            "text": "conducting",
+            "is_entity": true,
+            "label": "VERB",
+            "reason": "is a verb in this context, because this is the action that the subject performs."
+          },
+          {
+            "text": "groundbreaking research",
+            "is_entity": true,
+            "label": "OBJECT",
+            "reason": "is an object in this context, because this is the person or thing that the action is done to."
+          },
+          {
+            "text": "publishes",
+            "is_entity": true,
+            "label": "VERB",
+            "reason": "is a verb in this context, because this is the action that follows the first action."
+          },
+          {
+            "text": "her findings",
+            "is_entity": true,
+            "label": "OBJECT",
+            "reason": "is an object in this context, because this is the result of the previous action."
+          }
+        ]
+      },
+      {
+        "text": "The entrepreneur who founded the company sells it for a significant profit.",
+        "spans": [
+          {
+            "text": "The entrepreneur",
+            "is_entity": true,
+            "label": "SUBJECT",
+            "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+          },
+          {
+            "text": "founded",
+            "is_entity": true,
+            "label": "VERB",
+            "reason": "is a verb in this context, because this is the action that the subject performed."
+          },
+          {
+            "text": "the company",
+            "is_entity": true,
+            "label": "OBJECT",
+            "reason": "is an object in this context, because this is the entity that was created by the subject."
+          },
+          {
+            "text": "sells",
+            "is_entity": true,
+            "label": "VERB",
+            "reason": "is a verb in this context, because this is the action that follows the first action."
+          },
+          {
+            "text": "it",
+            "is_entity": true,
+            "label": "OBJECT",
+            "reason": "is an object in this context, referring back to 'the company'."
+          },
+          {
+            "text": "for a significant profit",
+            "is_entity": true,
+            "label": "OBJECT",
+            "reason": "is an object in this context, describing the result of the selling action."
+          }
+        ]
+      },
+      {
+        "text": "The artist painting a mural attracts attention from passersby.",
+        "spans": [
+          {
+            "text": "The artist",
+            "is_entity": true,
+            "label": "SUBJECT",
+            "reason": "is a subject in this context, because this is the person or thing that the sentence is about."
+          },
+          {
+            "text": "painting",
+            "is_entity": true,
+            "label": "VERB",
+            "reason": "is a verb in this context, because this is the action that the subject is currently performing."
+          },
+          {
+            "text": "a mural",
+            "is_entity": true,
+            "label": "OBJECT",
+            "reason": "is an object in this context, because this is the thing that the subject is working on."
+          },
+          {
+            "text": "attracts",
+            "is_entity": true,
+            "label": "VERB",
+            "reason": "is a verb in this context, because this is the action that is the result of the painting."
+          },
+          {
+            "text": "attention from passersby",
+            "is_entity": true,
+            "label": "OBJECT",
+            "reason": "is an object in this context, describing the effect of the artist's action."
+          }
+        ]
+      }
+    ]
+    
+  
